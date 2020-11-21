@@ -1,0 +1,22 @@
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\bin\Debug\MotherHappy.exe.config
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\bin\Debug\MotherHappy.exe
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\bin\Debug\MotherHappy.pdb
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.Form1.resources
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.Properties.Resources.resources
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.csproj.GenerateResource.cache
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.exe
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.pdb
+C:\Users\Eric\source\repos\MotherHappy\MotherHappy\obj\Debug\MotherHappy.Form2.resources
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\bin\Debug\MotherHappy.exe.config
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\bin\Debug\MotherHappy.exe
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\bin\Debug\MotherHappy.pdb
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.Form1.resources
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.Form2.resources
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.Properties.Resources.resources
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.csproj.GenerateResource.cache
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.exe
+C:\Users\Eric\Documents\python\MotherHappy\MotherHappy\MotherHappy(visual studio)\MotherHappy\MotherHappy\obj\Debug\MotherHappy.pdb
